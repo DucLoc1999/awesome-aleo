@@ -201,7 +201,7 @@ The following is a curated list of applications powered by Aleo.
 - [zkKYC](https://github.com/B1boid/zk-KYC) - KYC platform using zkML (Zero-knowledge Machine Learning) algorithms on Aleo blockchain.
 - [Zero Gravity](https://github.com/zkp-gravity/0g) - Proving an inference pass for a public Weightless Neural Network run on a private input.
 - [Leo Quantization](https://github.com/storswiftlabs/leo-quantization) - Use quantized data in the zkML program in Leo and perform operations on quantized data.
-
+- [todo]
 ### Marketplaces
 
 - [leo/auction](https://github.com/AleoHQ/leo/tree/testnet3/examples/auction) - An auction record format built in Leo
